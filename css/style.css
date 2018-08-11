@@ -1,0 +1,108 @@
+/*header start*/
+
+.safe{
+	background-color: #371530;
+}
+.custom_header{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+.custom_header1{
+	font-size: 35px;
+	margin-left: 5px;
+	color: #F3E228!important;
+}
+.custom_nav{}
+.custom_nav ul li a{
+	color: white!important;
+	font-size: 25px;
+}
+
+.custom_dro{
+	
+	background-color: #371530!important;
+}
+.custom_dro a{
+	color: black;
+	background-color: #371530!important;
+}
+
+/*header end*/
+
+
+/*bannar start*/
+
+.bannar{
+	background-image: url(../img/sport.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.content{
+	min-height: 300px;
+	background-color: rgba(12,12,12,.5);
+	color: white;
+	padding: 45px;
+}
+.content h1{
+	font-size: 25px;
+}
+.content p{}
+.content button{
+	background-color: red;
+	border-radius: 5px;
+	
+}
+.custom_car li{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+}
+.service{
+	
+	margin-top: 10px;
+}
+.coustom_service{
+	border: 1px solid;
+	padding: 10px 10px;
+}
+/*bannar end*/
+
+/*service start*/
+
+.service h1{
+	font-size: 25px;
+}
+.row1 img {
+	width: 150px;
+	height: 90px;
+
+}
+.row1 h1 {
+	font-size: 20px;
+	margin: 12px 8px;
+
+}
+.dwn{
+	margin-top: 10px;
+}
+.custom_all{
+	padding: 0 0px;
+	padding-left: 10px;
+}
+.hhh{
+	/*padding: 0 10px;*/
+}
+/*service end*/
+
+/*footer start*/
+
+footer{
+	margin-top: 15px;
+}
+footer ul li a{
+	color: blue!important;
+}
+/*footer end*/
